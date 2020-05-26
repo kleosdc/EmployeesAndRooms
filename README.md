@@ -1,5 +1,6 @@
 # EmployeesAndRooms
 Built using AJAX, HTML, CSS.
+View: https://kleosdc.github.io/EmployeesAndRooms/index.html
 It's a simple project that displays 2 things:
 # Rooms
 Shows which room numbers are available and which are not available.
